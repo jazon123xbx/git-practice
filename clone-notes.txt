@@ -1,1 +1,1 @@
-This line was edited from the cloned repository.
+This conflict was resolved using changes from both repository copies.
