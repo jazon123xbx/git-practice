@@ -1,1 +1,2 @@
 Learning the basics of Git.
+A commit is a saved checkpoint.
